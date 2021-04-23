@@ -1,11 +1,11 @@
 # Hi there 👋
 
 
-I’m a designer from 🇵🇹.
+I’m a Portugal-based designer. I’m interested in building software that is ethical, meaningful, useful and accessible.
 
-Currently on sabbatical. Last I lead product design at [Semaphore CI](https://semaphoreci.com), a tool for developers.
+I’m currently on sabbatical. In past I was involved with various technology companies. Last I lead product design at [Semaphore CI](https://semaphoreci.com), a tool for developers.
 
-I tweet from [@ropsii](https://twitter.com/ropsii). Sometimes I post quick reads on design and making software:
+I tweet from [@ropsii](https://twitter.com/ropsii). Sometimes I write about design and making software:
 
 - [Understanding (&) Design Leadership](https://www.petarperovic.com/blog/design-leadership/) (3 min. read)
 - [Who Owns Your Design?](https://www.petarperovic.com/blog/work-ownership/) (4 min. read)
