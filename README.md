@@ -1,7 +1,9 @@
 # Hi there 👋
 
 
-I’m a product designer from 🇵🇹. Currently on sabbatical. Last I lead design at [Semaphore CI](https://semaphoreci.com), a tool for developers.
+I’m a designer from 🇵🇹.
+
+Currently on sabbatical. Last I lead product design at [Semaphore CI](https://semaphoreci.com), a tool for developers.
 
 I tweet from [@ropsii](https://twitter.com/ropsii). Sometimes I post quick reads on design and making software:
 
