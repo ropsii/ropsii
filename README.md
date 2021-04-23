@@ -1,7 +1,7 @@
 # Hi there 👋
 
 
-I’m a Portugal-based designer. I’m interested in building software that is ethical, meaningful, useful and accessible.
+I’m a Portugal-based designer. My interest is in building software that is ethical, meaningful, useful and accessible.
 
 I’m currently on sabbatical. In past I was involved with various technology companies. Last I lead product design at [Semaphore CI](https://semaphoreci.com), a tool for developers.
 
