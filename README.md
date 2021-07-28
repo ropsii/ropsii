@@ -3,7 +3,7 @@
 
 I’m a Portugal-based designer. My interest is in building software that is ethical, meaningful, useful and accessible.
 
-I’m currently on sabbatical. In past I was involved with various technology companies. Last I lead product design at [Semaphore CI](https://semaphoreci.com), a tool for developers.
+I’m currently on sabbatical. In past I was involved with various technology companies. Last I led product design at [Semaphore CI](https://semaphoreci.com), a tool for developers.
 
 I tweet from [@ropsii](https://twitter.com/ropsii). Sometimes I write about design and making software:
 
