@@ -1,7 +1,7 @@
 # ✻
 
 
-I design [Akuity](https://akuity.io), a tool for developers.
+I’m a product designer at [Akuity](https://akuity.io), a tool for developers.
 
 I tweet from [@ropsii](https://twitter.com/ropsii). Sometimes I write about designing software:
 
