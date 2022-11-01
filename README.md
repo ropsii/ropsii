@@ -1,7 +1,7 @@
 # ✻
 
 
-I’m a Portugal-based designer, currently on sabbatical. In past I was involved with various technology companies. Last I led product design at [Semaphore CI](https://semaphoreci.com), a tool for developers.
+I design [Akuity](https://akuity.io), a tool for developers.
 
 I tweet from [@ropsii](https://twitter.com/ropsii). Sometimes I write about designing software:
 
